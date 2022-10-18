@@ -1,3 +1,5 @@
+## Computer Basic Course Syllabus By Technology Channel
+
 ### Computer Fundamentals
 - Introduction to computer
 - How do computers work?
