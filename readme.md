@@ -1,1 +1,1 @@
-### Open syllabus of technology related courses for teacher and students.
+### Open syllabus of technology related courses for teachers and students.
