@@ -62,6 +62,8 @@
 ### Dart Null Safety
 - Null Safety in Dart
 - Handling Null in Dart
+- Type Promotion in Dart
+- Late Keyword in Dart
 
 ### Dart Asynchronous Programming
 - Asynchronous Programming in Dart
