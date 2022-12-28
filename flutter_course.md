@@ -1,5 +1,3 @@
-## Flutter Course Syllabus By Technology Channel
-
 ### Requirements
 - Basic Computer Knowledge.
 - Basic Dart Programming Knowledge.
@@ -198,3 +196,9 @@
 
 ### Useful Resources
 - Get 20+ useful resources for flutter.
+
+### Created By
+- Technology Channel
+- technologychannel.org
+- facebook.com/technologychannel.org
+- instagram.com/technologychannel.org

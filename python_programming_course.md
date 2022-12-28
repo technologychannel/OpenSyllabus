@@ -1,5 +1,3 @@
-## Python Programming Course Syllabus By Technology Channel
-
 ### Python Fundamentals
 - Introduction to Python
 - Install Python
@@ -81,7 +79,6 @@
 - Deleting a file in Python
 - Reading and Writing to CSV files in Python
 
-
 ### Working With Web Services & APIs
 - HTTP Requests in Python
 - REST APIs in Python
@@ -93,3 +90,9 @@
 
 ### Python Test
 - Quiz and Theory Test
+
+### Created By
+- Technology Channel
+- technologychannel.org
+- facebook.com/technologychannel.org
+- instagram.com/technologychannel.org

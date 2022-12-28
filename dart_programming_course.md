@@ -1,5 +1,3 @@
-## Dart Programming Course Syllabus By Technology Channel
-
 ### Dart Fundamentals
 - Introduction to Dart
 - Install Dart
@@ -79,3 +77,9 @@
 ### Dart Test
 - Quiz and Theory Test
 - Questions are available in at dart-tutorial.com
+
+### Created By
+- Technology Channel
+- technologychannel.org
+- facebook.com/technologychannel.org
+- instagram.com/technologychannel.org

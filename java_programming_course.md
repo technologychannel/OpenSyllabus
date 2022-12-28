@@ -1,5 +1,3 @@
-## Java Programming Course Syllabus By Technology Channel
-
 ### Java Fundamentals
 - Introduction to Java
 - Install Java
@@ -59,6 +57,8 @@
 ### Java Test
 - Quiz and Theory Test
 
-what are the missing topic above:
-
-
+### Created By
+- Technology Channel
+- technologychannel.org
+- facebook.com/technologychannel.org
+- instagram.com/technologychannel.org

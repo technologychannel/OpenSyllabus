@@ -1,5 +1,3 @@
-## Computer Basic Course Syllabus By Technology Channel
-
 ### Computer Fundamentals
 - Introduction to computer
 - How do computers work?
@@ -178,3 +176,9 @@
 - Google Express and Shopping
 - Google News
 - More From Google
+
+### Created By
+- Technology Channel
+- technologychannel.org
+- facebook.com/technologychannel.org
+- instagram.com/technologychannel.org
