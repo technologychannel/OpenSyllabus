@@ -35,6 +35,12 @@
 - Map in Dart
 - Where in Dart
 
+### Dart File Handling
+- Introduction to File Handling
+- Read File in Dart
+- Write to File in Dart
+- Delete in Dart
+
 ### Dart OOP
 - Class in Dart
 - Object in Dart
