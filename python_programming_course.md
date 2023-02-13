@@ -15,7 +15,6 @@
 ### Python Control Flow & Loops
 - Conditional in Python
 - Assert in Python
-- Switch in Python
 - Loops in Python
 - While Loop in Python
 - Break and Continue in Python
@@ -24,7 +23,6 @@
 - Function in Python
 - Types of Function in Python
 - Function Parameter in Python
-- Arrow Function in Python
 - Scope in Python
 - Math in Python
 - Slice Function in Python
