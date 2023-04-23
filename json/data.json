@@ -1,0 +1,784 @@
+{
+  "courses": [
+    {
+      "name": "Java",
+      "syllabus": [
+        {
+          "topic": "Java Fundamentals",
+          "subtopics": [
+            "Introduction to Java",
+            "Install Java",
+            "Basic Java Program",
+            "Variables in Java",
+            "Data Types in Java",
+            "Comments in Java",
+            "Operators in Java",
+            "User Input in Java",
+            "String in Java"
+          ]
+        },
+        {
+          "topic": "Java Control Flow & Loops",
+          "subtopics": [
+            "Conditional in Java",
+            "Switch in Java",
+            "Loops in Java",
+            "For Loop in Java",
+            "While Loop in Java",
+            "Do While Loop in Java",
+            "Break and Continue in Java"
+          ]
+        },
+        {
+          "topic": "Java Functions",
+          "subtopics": [
+            "Function in Java",
+            "Types of Function in Java",
+            "Function Parameter in Java",
+            "Scope in Java",
+            "Math in Java"
+          ]
+        },
+        {
+          "topic": "Java Collection",
+          "subtopics": ["List in Java", "Map in Java"]
+        },
+        {
+          "topic": "Java OOP",
+          "subtopics": [
+            "Class in Java",
+            "Object in Java",
+            "Constructor in Java",
+            "Encapsulation in Java",
+            "Getter and Setter in Java",
+            "Inheritance in Java",
+            "Inheritance with Constructor in Java",
+            "Super Keyword in Java",
+            "Polymorphism in Java",
+            "Static Keyword in Java",
+            "Enum in Java",
+            "Abstract Class in Java",
+            "Interface in Java",
+            "Mixin in Java",
+            "Generics in Java"
+          ]
+        },
+        {
+          "topic": "Java Useful Information",
+          "subtopics": [
+            "Date In Java,",
+            "Array List In Java,",
+            "Lambda in Java,",
+            "Stream in Java,",
+            "Linked List In Java, and",
+            "HashMap In Java."
+          ]
+        },
+        {
+          "topic": "Java Test",
+          "subtopics": ["Quiz and Theory Test"]
+        }
+      ]
+    },
+    {
+      "name": "Flutter",
+      "syllabus": [
+        {
+          "topic": "Flutter Fundamentals",
+          "subtopics": [
+            "Introduction to Flutter.",
+            "History and importance Flutter.",
+            "Flutter Installation [Windows, MAC, Linux].",
+            "Flutter Hot Reload and Restart.",
+            "Flutter Hello World App.",
+            "Write Your First App [Bio Data App].",
+            "Useful VS Vode Extensions For Flutter Developers."
+          ]
+        },
+        {
+          "topic": "Git and Github Knowledge",
+          "subtopics": [
+            "Introduction of Git and github.",
+            "Installation of Git and Create Account In github.",
+            "Basic git Commands add, commit, push, pull, log, diff etc.",
+            "Concept of branching and merging.",
+            "Handle multiple branch merge conflict in git.",
+            "Practical project for team.",
+            "Git reset  command.",
+            "How to Manage Project."
+          ]
+        },
+        {
+          "topic": "Flutter Widgets",
+          "subtopics": [
+            "MaterialApp Widget.",
+            "Scaffold Widget.",
+            "Image Widget.",
+            "Flutter Container.",
+            "Stateful and Stateless Widget.",
+            "Row and Column Widgets.",
+            "Icon Widget.",
+            "Flutter Text.",
+            "Layouts in Flutter.",
+            "Card Widget.",
+            "Table Widget.",
+            "TextField Widget.",
+            "Keys in Widget.",
+            "Build layout in flutter.",
+            "Alert Dialog Widget.",
+            "How to Find All Widgets."
+          ]
+        },
+        {
+          "topic": "Learn Navigation & Functionalities",
+          "subtopics": [
+            "Create New Screen.",
+            "Move to New Screen and Back.",
+            "Send data to new screen.",
+            "Named routing & Pass data from screen.",
+            "Create two text fields and implement functionalities like add, subtract.",
+            "Debugging Flutter Apps."
+          ]
+        },
+        {
+          "topic": "Learn Flutter Package",
+          "subtopics": [
+            "Flutter Packages Intro and Installation.",
+            "Take a picture in flutter using camera.",
+            "Popular Packages of Flutter."
+          ]
+        },
+        {
+          "topic": "Build 10 Simple Apps In Flutter [17 Days]",
+          "subtopics": [
+            "Dice Roller Game.",
+            "Interest Calculator App.",
+            "Quiz App.",
+            "Todo App.",
+            "Drawer App",
+            "This Person Does Not Exist App.",
+            "Result Nepal Apps.",
+            "QR Generator App.",
+            "Book Reader App.",
+            "Expenses Manager App.",
+            "Translator App.",
+            "Date Converter App.",
+            "English Essay App.",
+            "Privacy Policy Generator App.",
+            "Login App.",
+            "Custom Font App.",
+            "Resturant Menu Apps."
+          ]
+        },
+        {
+          "topic": "UI Challenges",
+          "subtopics": ["Whatsapp", "Instagram"]
+        },
+        {
+          "topic": "Images",
+          "subtopics": [
+            "Display Image From Internet.",
+            "Fade Image With A Placeholder.",
+            "Work with cached images."
+          ]
+        },
+        {
+          "topic": "Lists",
+          "subtopics": [
+            "Create a Grid List.",
+            "Create a Horizontal List.",
+            "Create list with different types of items.",
+            "Place a Floating appbar above a list.",
+            "Working with long list."
+          ]
+        },
+        {
+          "topic": "Learn to Use API",
+          "subtopics": [
+            "Learn to fetch data from Internet.",
+            "Make Authenticated Requests.",
+            "JSON Parsing In Flutter.",
+            "How to use API & REST API.",
+            "Read, Add, Update, Delete Data.",
+            "API Key.",
+            "API Endpoint.",
+            "What is JSON? - Detailed Explanation.",
+            "HTTP Package.",
+            "HTTP Fetch Method.",
+            "Data Modeling in Flutter.",
+            "Serialization With JSON.",
+            "Parse JSON - fromJson , toJson.",
+            "Creating ListView widget using Data.",
+            "Create Quiz App Using API.",
+            "Create News App Using API.",
+            "Create Weather App Using API.",
+            "Work With Web Sockets"
+          ]
+        },
+        {
+          "topic": "Learn to Use Local Storage",
+          "subtopics": [
+            "Store Data In Key Value Pairs.",
+            "Add, update, delete, read data locally.",
+            "Create a complete app with local storage.",
+            "Different Options [sharedpreferences, hive, moor]."
+          ]
+        },
+        {
+          "topic": "Working With User Input And Forms",
+          "subtopics": [
+            "Build A Registration Form [Hard Way].",
+            "Build A Registration Form [Systamatic Way].",
+            "Create a Style.",
+            "Handle Changes to TextField.",
+            "Retrive Values of a TextField."
+          ]
+        },
+        {
+          "topic": "State Management",
+          "subtopics": [
+            "Introduction to state Management.",
+            "Getx State Management.",
+            "Riverpod.",
+            "Counter App using riverpod.",
+            "Todo App using riverpod.",
+            "Shopping App Using Riverpod."
+          ]
+        },
+        {
+          "topic": "Build Backend Using Firebase & Appwrite",
+          "subtopics": [
+            "Configuring Firebase Authentication.",
+            "Log in to an App Using Firebase User Accounts.",
+            "Logout Configuration.",
+            "Firebase Database.",
+            "Which database is right for your project?",
+            "Real-Time Database.",
+            "Cloud Firestore.",
+            "Add a user authentication flow to a Flutter app using FirebaseUI.",
+            "Learn to use firebase for notification.",
+            "Using appwrite to create backend easily."
+          ]
+        },
+        {
+          "topic": " Flutter Animation",
+          "subtopics": [
+            "Animate Page Change Transition.",
+            "Animate Widget Using Physical Simulation.",
+            "Animate The Properties of Container.",
+            "Fade In and Fade Out."
+          ]
+        },
+        {
+          "topic": "Secure Flutter Apps",
+          "subtopics": [
+            "How App Can Be hacked?",
+            "How to prevent attack?",
+            "Identify, Detect, Protect, Respond and Recover.",
+            "Useful resources."
+          ]
+        },
+        {
+          "topic": "Working with device hardware",
+          "subtopics": [
+            "Understanding permissions in Android.",
+            "Adding bitmap images to screen.",
+            "Using device camera to click an image.",
+            "Sending Camera data back to screen and display image on bitmap.",
+            "Creating app that captures camera image and displays on screen.",
+            "Camera Access.",
+            "Map Access.",
+            "Location Access."
+          ]
+        },
+        {
+          "topic": "Flutter Testing",
+          "subtopics": [
+            "Setting up a Test Environment.",
+            "Starting your Test Session.",
+            "Unit Testing.",
+            "Integration Testing.",
+            "Widget Testing."
+          ]
+        },
+        {
+          "topic": "Flutter Web And Desktop",
+          "subtopics": [
+            "Create and Pubish App On Web.",
+            "Create and Publish App On Desktop."
+          ]
+        },
+        {
+          "topic": "Earning Money With Flutter",
+          "subtopics": ["Local Ads.", "Admob.", "In App Purchase."]
+        },
+        {
+          "topic": "Build App & Publish",
+          "subtopics": [
+            "Gau Khane Katha App With Admob Integration [From start to End].",
+            "Digital Khata App [From start to End]."
+          ]
+        },
+        {
+          "topic": "Useful Resources",
+          "subtopics": ["Get 20+ useful resources for flutter."]
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "syllabus": [
+        {
+          "topic": "Python Fundamentals",
+          "subtopics": [
+            "Introduction to Python",
+            "Install Python",
+            "Basic Python Program",
+            "Variables in Python",
+            "Data Types in Python",
+            "Convert Data Types in Python",
+            "Comments in Python",
+            "Operators in Python",
+            "User Input in Python",
+            "String in Python",
+            "Randomisation in Python",
+            "Code blocks and Indentation in Python"
+          ]
+        },
+        {
+          "topic": "Python Control Flow & Loops",
+          "subtopics": [
+            "Conditional in Python",
+            "Assert in Python",
+            "Switch in Python",
+            "Loops in Python",
+            "While Loop in Python",
+            "Break and Continue in Python"
+          ]
+        },
+        {
+          "topic": "Python Functions",
+          "subtopics": [
+            "Function in Python",
+            "Types of Function in Python",
+            "Function Parameter in Python",
+            "Arrow Function in Python",
+            "Scope in Python",
+            "Math in Python",
+            "Slice Function in Python"
+          ]
+        },
+        {
+          "topic": "Python Collection",
+          "subtopics": [
+            "List in Python",
+            "Tuple in Python",
+            "Set in Python",
+            "Dictionary in Python",
+            "List Comprehension in Python",
+            "Dictionary Comprehension in Python"
+          ]
+        },
+        {
+          "topic": "Python OOP",
+          "subtopics": [
+            "Class in Python",
+            "Object in Python",
+            "Working with multiple files in Python",
+            "Constructor in Python",
+            "Encapsulation in Python",
+            "Getter and Setter in Python",
+            "Inheritance in Python",
+            "Super Keyword in Python",
+            "Polymorphism in Python",
+            "Static Keyword in Python",
+            "Enum in Python",
+            "Abstract Class in Python",
+            "Interface in Python"
+          ]
+        },
+        {
+          "topic": "Creating GUI in Python",
+          "subtopics": ["Tkinter in Python", "Creating GUI in Python"]
+        },
+        {
+          "topic": "Working With Modules & Libraries",
+          "subtopics": [
+            "Importing Module in Python",
+            "Using Module in Python",
+            "Standard library modules"
+          ]
+        },
+        {
+          "topic": "Exception Handling",
+          "subtopics": [
+            "Exception in Python",
+            "Try Except in Python",
+            "Raise Exception in Python",
+            "Custom Exception in Python"
+          ]
+        },
+        {
+          "topic": "Working With Database",
+          "subtopics": [
+            "Connecting to a database in Python",
+            "Executing queries in Python",
+            "CRUD operations in Python"
+          ]
+        },
+        {
+          "topic": "Working With Files",
+          "subtopics": [
+            "Opening a file in Python",
+            "Reading a file in Python",
+            "Writing to a file in Python",
+            "Deleting a file in Python",
+            "Reading and Writing to CSV files in Python"
+          ]
+        },
+        {
+          "topic": "Working With Web Services & APIs",
+          "subtopics": [
+            "HTTP Requests in Python",
+            "REST APIs in Python",
+            "JSON in Python"
+          ]
+        },
+        {
+          "topic": "Bonus",
+          "subtopics": [
+            "Sending Email with Python",
+            "Browser Automation with Python"
+          ]
+        },
+        {
+          "topic": "Python Test",
+          "subtopics": ["Quiz and Theory Test"]
+        }
+      ]
+    },
+    {
+      "name": "Dart",
+      "syllabus": [
+        {
+          "topic": "Dart Fundamentals",
+          "subtopics": [
+            "Introduction to Dart",
+            "Install Dart",
+            "Basic Dart Program",
+            "Variables in Dart",
+            "Data Types in Dart",
+            "Comments in Dart",
+            "Operators in Dart",
+            "User Input in Dart",
+            "String in Dart"
+          ]
+        },
+        {
+          "topic": "Dart Control Flow & Loops",
+          "subtopics": [
+            "Conditional in Dart",
+            "Assert in Dart",
+            "Switch in Dart",
+            "Loops in Dart",
+            "For Loop in Dart",
+            "For Each Loop in Dart",
+            "While Loop in Dart",
+            "Do While Loop in Dart",
+            "Break and Continue in Dart"
+          ]
+        },
+        {
+          "topic": "Dart Functions",
+          "subtopics": [
+            "Function in Dart",
+            "Types of Function in Dart",
+            "Function Parameter in Dart",
+            "Anonymous Function in Dart",
+            "Arrow Function in Dart",
+            "Scope in Dart",
+            "Math in Dart"
+          ]
+        },
+        {
+          "topic": "Dart Collection",
+          "subtopics": [
+            "List in Dart",
+            "Set in Dart",
+            "Map in Dart",
+            "Where in Dart"
+          ]
+        },
+        {
+          "topic": "Dart OOP",
+          "subtopics": [
+            "Class in Dart",
+            "Object in Dart",
+            "Constructor in Dart",
+            "Default Constructor in Dart",
+            "Named Constructor in Dart",
+            "Constant Constructor in Dart",
+            "Parameterized Constructor in Dart",
+            "Encapsulation in Dart",
+            "Getter and Setter in Dart",
+            "Inheritance in Dart",
+            "Inheritance with Constructor in Dart",
+            "Super Keyword in Dart",
+            "Polymorphism in Dart",
+            "Static Keyword in Dart",
+            "Enum in Dart",
+            "Abstract Class in Dart",
+            "Interface in Dart",
+            "Mixin in Dart",
+            "Factory Constructor in Dart",
+            "Generics in Dart"
+          ]
+        },
+        {
+          "topic": "Dart Null Safety",
+          "subtopics": [
+            "Null Safety in Dart",
+            "Handling Null in Dart",
+            "Type Promotion in Dart",
+            "Late Keyword in Dart"
+          ]
+        },
+        {
+          "topic": "Dart Asynchronous Programming",
+          "subtopics": [
+            "Asynchronous Programming in Dart",
+            "Future in Dart",
+            "Async & Await in Dart"
+          ]
+        },
+        {
+          "topic": "Dart Useful Information",
+          "subtopics": [
+            "Final and Const in Dart",
+            "Spread Operator in Dart",
+            "Extension Method in Dart",
+            "Backends in Dart"
+          ]
+        },
+        {
+          "topic": "Dart Test",
+          "subtopics": [
+            "Quiz and Theory Test",
+            "Questions are available in at dart-tutorial.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Computer Basic Course",
+      "syllabus": [
+        {
+          "topic": "Computer Fundamentals",
+          "subtopics": [
+            "Introduction to computer",
+            "How do computers work?",
+            "Turn on / off computer",
+            "How to use keyboard or mouse / Right Click",
+            "Change Desktop Background",
+            "Screen Resolution",
+            "Auto Hide Taskbar",
+            "Basic Typing Skill",
+            "Application / Use of computer",
+            "Features of Computer",
+            "Input / Output Device",
+            "Memory",
+            "History of Computer",
+            "Generation of Computer",
+            "Types of Computer",
+            "Components of Computer",
+            "Motherboard",
+            "RAM",
+            "Ports",
+            "Hardware and Software",
+            "Take Screenshot",
+            "File Management",
+            "Windows Explorer",
+            "Working with Windows",
+            "Cut / Copy Paste",
+            "Disk Cleanup",
+            "Zip File Extraction"
+          ]
+        },
+        {
+          "topic": "Computer Software",
+          "subtopics": [
+            "Introduction to Software.",
+            "Open Source Software.",
+            "How to install and uninstall software",
+            "Popular software with use cases."
+          ]
+        },
+        {
+          "topic": "Operating System",
+          "subtopics": [
+            "What is operating system",
+            "Popular Operating System",
+            "Windows 10 / 11 Basics",
+            "Cut / Copy / Paste",
+            "How to use USB Drive",
+            "Date Change / Time Change",
+            "Theme Change",
+            "Ms Paint Drawing Guide",
+            "Wordpad",
+            "New Open and Save Document",
+            "Text Formatting",
+            "Scanning Image and Multimedia",
+            "Capturing Screenshot, Scan Images,",
+            "Print Guide",
+            "Play Video File",
+            "Switch Port and Connector",
+            "Switch In Computer",
+            "Port In Computer",
+            "Connector In Computer"
+          ]
+        },
+        {
+          "topic": "MS Word",
+          "subtopics": [
+            "Create new document",
+            "Save / Open / Delete file",
+            "Part of MS Word Window",
+            "Edit document",
+            "Formatting",
+            "Insert Cover Page",
+            "Page Break",
+            "Inserting Cover",
+            "Page Break",
+            "Insert Tables",
+            "Graphics",
+            "Draw a shape",
+            "Create Textbox",
+            "Insert Chart",
+            "Insert Wordart",
+            "Create Header and Footer",
+            "Insert Page Numbers",
+            "Drop Cap",
+            "Bookmarks",
+            "Create Hyperlink",
+            "Insert Symbols",
+            "Equation",
+            "Macros",
+            "Page Layout",
+            "Page Setup",
+            "Creating Columns",
+            "Line Numbers",
+            "Hyphenation",
+            "Watermark",
+            "Table of Content",
+            "Footnotes and Endnotes",
+            "Adding Captions"
+          ]
+        },
+        {
+          "topic": "MS Excel",
+          "subtopics": [
+            "Start Excel",
+            "Open / Save / Edit File",
+            "Part of Excel Window",
+            "Move the cell pointer",
+            "Enter and Edit Data",
+            "Select Cells, Rows, Columns Worksheet, Objects",
+            "Create new Workbook",
+            "Working with worksheet",
+            "Inserting Row and Column",
+            "Merge Cell and Align Cell Content",
+            "Align Cell Contents",
+            "Formatting to Cell",
+            "Currency Symbols In Excel",
+            "Adding Data Using Autofill",
+            "Performing calculation in Excel",
+            "Chart In Excel",
+            "Create and modify chart",
+            "Chart tools",
+            "Copy a Chart to Word",
+            "Sort and Filter",
+            "Page Properties and Printing",
+            "Sub Total",
+            "Pivot Table",
+            "Protect with password",
+            "Protect cell",
+            "Printing a worksheet in excel"
+          ]
+        },
+        {
+          "topic": "Microsoft Powerpoint",
+          "subtopics": [
+            "Introduction",
+            "Powerpoint Elements",
+            "Creating Presentation",
+            "Adding New Slides",
+            "Formatting Slide Design",
+            "Animation",
+            "Creating an audio",
+            "Insert HyperLink to a web page",
+            "Slide Show",
+            "Viewing Slide",
+            "Printing Slide"
+          ]
+        },
+        {
+          "topic": "Email and Internet",
+          "subtopics": [
+            "Internet",
+            "Browser",
+            "Search Better",
+            "Two step Authentication",
+            "Private Browsing",
+            "Chrome Extension",
+            "Password Manager",
+            "Dinosaur Game",
+            "How to Use Email [Attachment, Reply, Reply all, CC and BCC]",
+            "Searching Information Online",
+            "Some Popular Website",
+            "Computer Security",
+            "Introduction",
+            "Antivirus",
+            "Data Backup and Recovery",
+            "Network Security",
+            "Malwares",
+            "Encryption",
+            "Secure OS",
+            "Short Cut",
+            "Cut / Copy / Paste / Undo / Redo / Move Files",
+            "MS Word",
+            "Excel",
+            "Powerpoint",
+            "Web Browser"
+          ]
+        },
+        {
+          "topic": "Stay Safe",
+          "subtopics": [
+            "Introduction",
+            "Sensitive Information",
+            "Virus and Ransomware attack",
+            "Attack from USB Drive"
+          ]
+        },
+        {
+          "topic": "Google Productivity Apps",
+          "subtopics": [
+            "Google Docs",
+            "Google Sheets",
+            "Google Calendar",
+            "Google Slide",
+            "Google Chat",
+            "Google Fonts",
+            "Google Life Apps",
+            "Google Maps",
+            "Google Flights",
+            "Google Translate",
+            "Google Express and Shopping",
+            "Google News",
+            "More From Google"
+          ]
+        }
+      ]
+    }
+  ]
+}

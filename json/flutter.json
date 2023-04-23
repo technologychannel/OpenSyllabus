@@ -1,0 +1,245 @@
+{
+      "name": "Flutter",
+      "syllabus": [
+        {
+          "topic": "Flutter Fundamentals",
+          "subtopics": [
+            "Introduction to Flutter.",
+            "History and importance Flutter.",
+            "Flutter Installation [Windows, MAC, Linux].",
+            "Flutter Hot Reload and Restart.",
+            "Flutter Hello World App.",
+            "Write Your First App [Bio Data App].",
+            "Useful VS Vode Extensions For Flutter Developers."
+          ]
+        },
+        {
+          "topic": "Git and Github Knowledge",
+          "subtopics": [
+            "Introduction of Git and github.",
+            "Installation of Git and Create Account In github.",
+            "Basic git Commands add, commit, push, pull, log, diff etc.",
+            "Concept of branching and merging.",
+            "Handle multiple branch merge conflict in git.",
+            "Practical project for team.",
+            "Git reset  command.",
+            "How to Manage Project."
+          ]
+        },
+        {
+          "topic": "Flutter Widgets",
+          "subtopics": [
+            "MaterialApp Widget.",
+            "Scaffold Widget.",
+            "Image Widget.",
+            "Flutter Container.",
+            "Stateful and Stateless Widget.",
+            "Row and Column Widgets.",
+            "Icon Widget.",
+            "Flutter Text.",
+            "Layouts in Flutter.",
+            "Card Widget.",
+            "Table Widget.",
+            "TextField Widget.",
+            "Keys in Widget.",
+            "Build layout in flutter.",
+            "Alert Dialog Widget.",
+            "How to Find All Widgets."
+          ]
+        },
+        {
+          "topic": "Learn Navigation & Functionalities",
+          "subtopics": [
+            "Create New Screen.",
+            "Move to New Screen and Back.",
+            "Send data to new screen.",
+            "Named routing & Pass data from screen.",
+            "Create two text fields and implement functionalities like add, subtract.",
+            "Debugging Flutter Apps."
+          ]
+        },
+        {
+          "topic": "Learn Flutter Package",
+          "subtopics": [
+            "Flutter Packages Intro and Installation.",
+            "Take a picture in flutter using camera.",
+            "Popular Packages of Flutter."
+          ]
+        },
+        {
+          "topic": "Build 10 Simple Apps In Flutter [17 Days]",
+          "subtopics": [
+            "Dice Roller Game.",
+            "Interest Calculator App.",
+            "Quiz App.",
+            "Todo App.",
+            "Drawer App",
+            "This Person Does Not Exist App.",
+            "Result Nepal Apps.",
+            "QR Generator App.",
+            "Book Reader App.",
+            "Expenses Manager App.",
+            "Translator App.",
+            "Date Converter App.",
+            "English Essay App.",
+            "Privacy Policy Generator App.",
+            "Login App.",
+            "Custom Font App.",
+            "Resturant Menu Apps."
+          ]
+        },
+        {
+          "topic": "UI Challenges",
+          "subtopics": ["Whatsapp", "Instagram"]
+        },
+        {
+          "topic": "Images",
+          "subtopics": [
+            "Display Image From Internet.",
+            "Fade Image With A Placeholder.",
+            "Work with cached images."
+          ]
+        },
+        {
+          "topic": "Lists",
+          "subtopics": [
+            "Create a Grid List.",
+            "Create a Horizontal List.",
+            "Create list with different types of items.",
+            "Place a Floating appbar above a list.",
+            "Working with long list."
+          ]
+        },
+        {
+          "topic": "Learn to Use API",
+          "subtopics": [
+            "Learn to fetch data from Internet.",
+            "Make Authenticated Requests.",
+            "JSON Parsing In Flutter.",
+            "How to use API & REST API.",
+            "Read, Add, Update, Delete Data.",
+            "API Key.",
+            "API Endpoint.",
+            "What is JSON? - Detailed Explanation.",
+            "HTTP Package.",
+            "HTTP Fetch Method.",
+            "Data Modeling in Flutter.",
+            "Serialization With JSON.",
+            "Parse JSON - fromJson , toJson.",
+            "Creating ListView widget using Data.",
+            "Create Quiz App Using API.",
+            "Create News App Using API.",
+            "Create Weather App Using API.",
+            "Work With Web Sockets"
+          ]
+        },
+        {
+          "topic": "Learn to Use Local Storage",
+          "subtopics": [
+            "Store Data In Key Value Pairs.",
+            "Add, update, delete, read data locally.",
+            "Create a complete app with local storage.",
+            "Different Options [sharedpreferences, hive, moor]."
+          ]
+        },
+        {
+          "topic": "Working With User Input And Forms",
+          "subtopics": [
+            "Build A Registration Form [Hard Way].",
+            "Build A Registration Form [Systamatic Way].",
+            "Create a Style.",
+            "Handle Changes to TextField.",
+            "Retrive Values of a TextField."
+          ]
+        },
+        {
+          "topic": "State Management",
+          "subtopics": [
+            "Introduction to state Management.",
+            "Getx State Management.",
+            "Riverpod.",
+            "Counter App using riverpod.",
+            "Todo App using riverpod.",
+            "Shopping App Using Riverpod."
+          ]
+        },
+        {
+          "topic": "Build Backend Using Firebase & Appwrite",
+          "subtopics": [
+            "Configuring Firebase Authentication.",
+            "Log in to an App Using Firebase User Accounts.",
+            "Logout Configuration.",
+            "Firebase Database.",
+            "Which database is right for your project?",
+            "Real-Time Database.",
+            "Cloud Firestore.",
+            "Add a user authentication flow to a Flutter app using FirebaseUI.",
+            "Learn to use firebase for notification.",
+            "Using appwrite to create backend easily."
+          ]
+        },
+        {
+          "topic": " Flutter Animation",
+          "subtopics": [
+            "Animate Page Change Transition.",
+            "Animate Widget Using Physical Simulation.",
+            "Animate The Properties of Container.",
+            "Fade In and Fade Out."
+          ]
+        },
+        {
+          "topic": "Secure Flutter Apps",
+          "subtopics": [
+            "How App Can Be hacked?",
+            "How to prevent attack?",
+            "Identify, Detect, Protect, Respond and Recover.",
+            "Useful resources."
+          ]
+        },
+        {
+          "topic": "Working with device hardware",
+          "subtopics": [
+            "Understanding permissions in Android.",
+            "Adding bitmap images to screen.",
+            "Using device camera to click an image.",
+            "Sending Camera data back to screen and display image on bitmap.",
+            "Creating app that captures camera image and displays on screen.",
+            "Camera Access.",
+            "Map Access.",
+            "Location Access."
+          ]
+        },
+        {
+          "topic": "Flutter Testing",
+          "subtopics": [
+            "Setting up a Test Environment.",
+            "Starting your Test Session.",
+            "Unit Testing.",
+            "Integration Testing.",
+            "Widget Testing."
+          ]
+        },
+        {
+          "topic": "Flutter Web And Desktop",
+          "subtopics": [
+            "Create and Pubish App On Web.",
+            "Create and Publish App On Desktop."
+          ]
+        },
+        {
+          "topic": "Earning Money With Flutter",
+          "subtopics": ["Local Ads.", "Admob.", "In App Purchase."]
+        },
+        {
+          "topic": "Build App & Publish",
+          "subtopics": [
+            "Gau Khane Katha App With Admob Integration [From start to End].",
+            "Digital Khata App [From start to End]."
+          ]
+        },
+        {
+          "topic": "Useful Resources",
+          "subtopics": ["Get 20+ useful resources for flutter."]
+        }
+      ]
+    }
