@@ -1,0 +1,132 @@
+ {
+      "name": "Python",
+      "syllabus": [
+        {
+          "topic": "Python Fundamentals",
+          "subtopics": [
+            "Introduction to Python",
+            "Install Python",
+            "Basic Python Program",
+            "Variables in Python",
+            "Data Types in Python",
+            "Convert Data Types in Python",
+            "Comments in Python",
+            "Operators in Python",
+            "User Input in Python",
+            "String in Python",
+            "Randomisation in Python",
+            "Code blocks and Indentation in Python"
+          ]
+        },
+        {
+          "topic": "Python Control Flow & Loops",
+          "subtopics": [
+            "Conditional in Python",
+            "Assert in Python",
+            "Switch in Python",
+            "Loops in Python",
+            "While Loop in Python",
+            "Break and Continue in Python"
+          ]
+        },
+        {
+          "topic": "Python Functions",
+          "subtopics": [
+            "Function in Python",
+            "Types of Function in Python",
+            "Function Parameter in Python",
+            "Arrow Function in Python",
+            "Scope in Python",
+            "Math in Python",
+            "Slice Function in Python"
+          ]
+        },
+        {
+          "topic": "Python Collection",
+          "subtopics": [
+            "List in Python",
+            "Tuple in Python",
+            "Set in Python",
+            "Dictionary in Python",
+            "List Comprehension in Python",
+            "Dictionary Comprehension in Python"
+          ]
+        },
+        {
+          "topic": "Python OOP",
+          "subtopics": [
+            "Class in Python",
+            "Object in Python",
+            "Working with multiple files in Python",
+            "Constructor in Python",
+            "Encapsulation in Python",
+            "Getter and Setter in Python",
+            "Inheritance in Python",
+            "Super Keyword in Python",
+            "Polymorphism in Python",
+            "Static Keyword in Python",
+            "Enum in Python",
+            "Abstract Class in Python",
+            "Interface in Python"
+          ]
+        },
+        {
+          "topic": "Creating GUI in Python",
+          "subtopics": ["Tkinter in Python", "Creating GUI in Python"]
+        },
+        {
+          "topic": "Working With Modules & Libraries",
+          "subtopics": [
+            "Importing Module in Python",
+            "Using Module in Python",
+            "Standard library modules"
+          ]
+        },
+        {
+          "topic": "Exception Handling",
+          "subtopics": [
+            "Exception in Python",
+            "Try Except in Python",
+            "Raise Exception in Python",
+            "Custom Exception in Python"
+          ]
+        },
+        {
+          "topic": "Working With Database",
+          "subtopics": [
+            "Connecting to a database in Python",
+            "Executing queries in Python",
+            "CRUD operations in Python"
+          ]
+        },
+        {
+          "topic": "Working With Files",
+          "subtopics": [
+            "Opening a file in Python",
+            "Reading a file in Python",
+            "Writing to a file in Python",
+            "Deleting a file in Python",
+            "Reading and Writing to CSV files in Python"
+          ]
+        },
+        {
+          "topic": "Working With Web Services & APIs",
+          "subtopics": [
+            "HTTP Requests in Python",
+            "REST APIs in Python",
+            "JSON in Python"
+          ]
+        },
+        {
+          "topic": "Bonus",
+          "subtopics": [
+            "Sending Email with Python",
+            "Browser Automation with Python"
+          ]
+        },
+        {
+          "topic": "Python Test",
+          "subtopics": ["Quiz and Theory Test"]
+        }
+      ]
+    }

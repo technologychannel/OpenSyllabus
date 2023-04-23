@@ -1,0 +1,80 @@
+{
+      "name": "Java",
+      "syllabus": [
+        {
+          "topic": "Java Fundamentals",
+          "subtopics": [
+            "Introduction to Java",
+            "Install Java",
+            "Basic Java Program",
+            "Variables in Java",
+            "Data Types in Java",
+            "Comments in Java",
+            "Operators in Java",
+            "User Input in Java",
+            "String in Java"
+          ]
+        },
+        {
+          "topic": "Java Control Flow & Loops",
+          "subtopics": [
+            "Conditional in Java",
+            "Switch in Java",
+            "Loops in Java",
+            "For Loop in Java",
+            "While Loop in Java",
+            "Do While Loop in Java",
+            "Break and Continue in Java"
+          ]
+        },
+        {
+          "topic": "Java Functions",
+          "subtopics": [
+            "Function in Java",
+            "Types of Function in Java",
+            "Function Parameter in Java",
+            "Scope in Java",
+            "Math in Java"
+          ]
+        },
+        {
+          "topic": "Java Collection",
+          "subtopics": ["List in Java", "Map in Java"]
+        },
+        {
+          "topic": "Java OOP",
+          "subtopics": [
+            "Class in Java",
+            "Object in Java",
+            "Constructor in Java",
+            "Encapsulation in Java",
+            "Getter and Setter in Java",
+            "Inheritance in Java",
+            "Inheritance with Constructor in Java",
+            "Super Keyword in Java",
+            "Polymorphism in Java",
+            "Static Keyword in Java",
+            "Enum in Java",
+            "Abstract Class in Java",
+            "Interface in Java",
+            "Mixin in Java",
+            "Generics in Java"
+          ]
+        },
+        {
+          "topic": "Java Useful Information",
+          "subtopics": [
+            "Date In Java,",
+            "Array List In Java,",
+            "Lambda in Java,",
+            "Stream in Java,",
+            "Linked List In Java, and",
+            "HashMap In Java."
+          ]
+        },
+        {
+          "topic": "Java Test",
+          "subtopics": ["Quiz and Theory Test"]
+        }
+      ]
+    }
