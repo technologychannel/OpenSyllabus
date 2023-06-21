@@ -11,6 +11,7 @@
 - String in Python
 - Randomisation in Python
 - Code blocks and Indentation in Python
+- 3 Practical Projects
 
 ### Python Control Flow & Loops
 - Conditional in Python
@@ -18,6 +19,7 @@
 - Loops in Python
 - While Loop in Python
 - Break and Continue in Python
+- 3 Practical Projects
 
 ### Python Functions
 - Function in Python
@@ -26,6 +28,7 @@
 - Scope in Python
 - Math in Python
 - Slice Function in Python
+- 3 Practical Projects
 
 ### Python Collection
 - List in Python
@@ -34,6 +37,7 @@
 - Dictionary in Python
 - List Comprehension in Python
 - Dictionary Comprehension in Python
+- 3 Practical Projects
 
 ### Python OOP
 - Class in Python
@@ -49,15 +53,19 @@
 - Enum in Python
 - Abstract Class in Python
 - Interface in Python
+- 3 Practical Projects
 
 ### Creating GUI in Python
 - Tkinter in Python
 - Creating GUI in Python
+- 3 Practical Projects
+
 
 ### Working With Modules & Libraries
 - Importing Module in Python
 - Using Module in Python
 - Standard library modules
+- 3 Practical Projects
 
 ### Exception Handling
 - Exception in Python
@@ -69,6 +77,7 @@
 - Connecting to a database in Python
 - Executing queries in Python
 - CRUD operations in Python
+- 3 Practical Projects
 
 ### Working With Files
 - Opening a file in Python
@@ -76,11 +85,13 @@
 - Writing to a file in Python
 - Deleting a file in Python
 - Reading and Writing to CSV files in Python
+- Real World App - Creating a To-Do List App in Python
 
 ### Working With Web Services & APIs
 - HTTP Requests in Python
 - REST APIs in Python
 - JSON in Python
+- 3 Practical Projects
 
 ### Bonus
 - Sending Email with Python
