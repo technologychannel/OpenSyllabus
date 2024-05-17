@@ -1,4 +1,4 @@
-### Python Fundamentals
+### Python Basics
 - Introduction to Python
 - Install Python
 - Basic Python Program
@@ -11,6 +11,8 @@
 - String in Python
 - Randomisation in Python
 - Code blocks and Indentation in Python
+- Learn to write clean code in Python
+- Virtual environment in Python
 - 3 Practical Projects
 
 ### Python Control Flow & Loops
@@ -28,15 +30,6 @@
 - Scope in Python
 - Math in Python
 - Slice Function in Python
-- 3 Practical Projects
-
-### Python Collection
-- List in Python
-- Tuple in Python
-- Set in Python
-- Dictionary in Python
-- List Comprehension in Python
-- Dictionary Comprehension in Python
 - 3 Practical Projects
 
 ### Python OOP
@@ -60,7 +53,6 @@
 - Creating GUI in Python
 - 3 Practical Projects
 
-
 ### Working With Modules & Libraries
 - Importing Module in Python
 - Using Module in Python
@@ -70,7 +62,7 @@
 ### Exception Handling
 - Exception in Python
 - Try Except in Python
-- Raise Exception in Python
+- Raise Exceptions in Python
 - Custom Exception in Python
 
 ### Working With Database
@@ -87,18 +79,59 @@
 - Reading and Writing to CSV files in Python
 - Real World App - Creating a To-Do List App in Python
 
-### Working With Web Services & APIs
+### Debugging
+- Debugging Introduction
+- Breakpoints
+
+### Date Time
+- Working with date
+- Working with time
+
+### Working With API
 - HTTP Requests in Python
 - REST APIs in Python
 - JSON in Python
 - 3 Practical Projects
 
-### Bonus
-- Sending Email with Python
-- Browser Automation with Python
+### Web Automation
+- Introduction to Automation
+- Automate your Browser
+- 3 Practical Projects
+
+### Online Test & Certificate
+- MCQ Test
+- Important Interview Questions
+- Training Certificate from Technology Channel
 
 ### Python Test
 - Quiz and Theory Test
+
+### Projects That You Will Create
+- - Random Number Guess Game
+- Income and Expenses Manager App
+- Weather App
+- Task Scheduler and Reminder Application
+- Network Packet Sniffer
+- 
+### Projects That You Will Create
+- Personal Budget Tracker
+- Library Management System
+- Contact Book Application
+- Simple E-commerce Platform
+- Blog Website
+- Chat Application
+- Social Media Dashboard
+- Movie Recommendation System
+- Fitness Tracker
+- Inventory Management System
+- Online Survey Tool
+- File Organizer
+- Recipe App
+- Portfolio Website
+- Quiz Game
+- URL Shortener
+- PDF Generator
+- Email Sender Application
 
 ### Created By
 - Technology Channel
