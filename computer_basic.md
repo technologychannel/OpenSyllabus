@@ -167,15 +167,11 @@
 - Google Sheets
 - Google Calendar
 - Google Slide
-- Google Chat
 - Google Fonts
-- Google Life Apps
 - Google Maps
 - Google Flights
 - Google Translate
-- Google Express and Shopping
 - Google News
-- More From Google
 
 ### Created By
 - Technology Channel
